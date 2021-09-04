@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="huiminpay-common" />
+        <module name="huiminpay-merchant-api" />
+        <module name="huiminpay-merchant-application" />
+        <module name="huiminpay-merchant-service" />
+        <module name="lzz-merchant-api" />
+        <module name="lzz-merchant-application" />
+        <module name="lzz-merchant-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lzz-common" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

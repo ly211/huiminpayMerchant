@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huiminpay-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huiminpay-merchant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huiminpay-merchant-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huiminpay-merchant/huiminpay-merchant-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huiminpay-merchant/huiminpay-merchant-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lzz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lzz/lzz-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lzz/lzz-merchant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lzz/lzz-merchant-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lzz/lzz-merchant/lzz-merchant-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lzz/lzz-merchant/lzz-merchant-service" charset="UTF-8" />
+  </component>
+</project>
